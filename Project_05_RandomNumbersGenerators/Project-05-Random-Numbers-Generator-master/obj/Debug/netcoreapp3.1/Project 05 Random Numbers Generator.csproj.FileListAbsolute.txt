@@ -1,0 +1,14 @@
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project-05-Random-Numbers-Generator-master\Project-05-Random-Numbers-Generator-master\bin\Debug\netcoreapp3.1\Project 05 Random Numbers Generator.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project-05-Random-Numbers-Generator-master\Project-05-Random-Numbers-Generator-master\bin\Debug\netcoreapp3.1\Project 05 Random Numbers Generator.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project-05-Random-Numbers-Generator-master\Project-05-Random-Numbers-Generator-master\bin\Debug\netcoreapp3.1\Project 05 Random Numbers Generator.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project-05-Random-Numbers-Generator-master\Project-05-Random-Numbers-Generator-master\bin\Debug\netcoreapp3.1\Project 05 Random Numbers Generator.runtimeconfig.dev.json
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project-05-Random-Numbers-Generator-master\Project-05-Random-Numbers-Generator-master\bin\Debug\netcoreapp3.1\Project 05 Random Numbers Generator.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project-05-Random-Numbers-Generator-master\Project-05-Random-Numbers-Generator-master\bin\Debug\netcoreapp3.1\Project 05 Random Numbers Generator.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project-05-Random-Numbers-Generator-master\Project-05-Random-Numbers-Generator-master\obj\Debug\netcoreapp3.1\Project 05 Random Numbers Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project-05-Random-Numbers-Generator-master\Project-05-Random-Numbers-Generator-master\obj\Debug\netcoreapp3.1\Project 05 Random Numbers Generator.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project-05-Random-Numbers-Generator-master\Project-05-Random-Numbers-Generator-master\obj\Debug\netcoreapp3.1\Project 05 Random Numbers Generator.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project-05-Random-Numbers-Generator-master\Project-05-Random-Numbers-Generator-master\obj\Debug\netcoreapp3.1\Project 05 Random Numbers Generator.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project-05-Random-Numbers-Generator-master\Project-05-Random-Numbers-Generator-master\obj\Debug\netcoreapp3.1\Project 05 Random Numbers Generator.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project-05-Random-Numbers-Generator-master\Project-05-Random-Numbers-Generator-master\obj\Debug\netcoreapp3.1\Project 05 Random Numbers Generator.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project-05-Random-Numbers-Generator-master\Project-05-Random-Numbers-Generator-master\obj\Debug\netcoreapp3.1\Project 05 Random Numbers Generator.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Downloads\Project-05-Random-Numbers-Generator-master\Project-05-Random-Numbers-Generator-master\obj\Debug\netcoreapp3.1\Project 05 Random Numbers Generator.csproj.AssemblyReference.cache
